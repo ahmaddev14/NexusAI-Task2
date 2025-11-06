@@ -1,6 +1,6 @@
 # To-Do List App
 
-<img width="1869" height="846" alt="Screenshot_46" src="https://github.com/user-attachments/assets/d882ee86-65fa-4f1a-bbb2-39345cd4efe3" />
+<img width="1789" height="814" alt="Screenshot_46" src="https://github.com/user-attachments/assets/1142ba84-860f-43e6-bfba-77086808cac8" />
 
 Simple task management app with localStorage
 
